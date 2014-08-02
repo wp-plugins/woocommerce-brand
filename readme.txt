@@ -91,3 +91,11 @@ Do you have questions or issues with Woocommerce Brands? Use these support chann
 
 
 == Screenshots ==
+
+1. screen 1
+2. screen 2
+3. screen 3
+4. screen 4
+5. screen 5
+6. screen 6
+7. screen 7

@@ -119,7 +119,7 @@ class pw_woocommerc_brans_WC_Admin_Tabs {
 			array( 'type' => 'sectionend'),
 
 			array(	'title' => __( 'Pro Version', 'woocommerce' ), 'type' => 'title', 
-			'desc' => '<p style="color:red;">To Buy Pro Version Please <a href="http://codecanyon.net/item/woocommerce-brands/8039481?ref=proword" target="blank">Click Here</a></P>Pro Version Feature:<br/>
+			'desc' => '<p style="color:red;">To Buy Pro Version Please <a href="http://codecanyon.net/item/woocommerce-brands/8039481?ref=proword?ref=proword" target="blank">Click Here</a></P>Pro Version Feature:<br/>
 			<ul>
 		<li><strong>Shortcodes</strong>
 			<ol>

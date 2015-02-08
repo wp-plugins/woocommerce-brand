@@ -2,8 +2,8 @@
 Contributors: proword
 Donate link: 
 Tags:  	brands, distributor, manufacturer, supplier, woocommerce, woocommerce brand, woocommerce manufaturer, woocommerce supplier
-Requires at least: 3.5
-Tested up to: 3.9.1
+Requires at least: 4.1
+Tested up to: 4.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,7 +13,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 This greate plugin adds Brand taxonomy under product menu, you can add brand name and logo and then select related brand in product page (like category).Also, there is a Brand page which list all products wtih same brand.
 
 = Docs & Support =
-You can find [docs](http://proword.net/Woocommerce_Brands/documentation/).If you were unable to find the answer to your question on the FAQ or in any of the documentation, you should check the [support forum](http://wordpress.org/support/plugin/woocommerce-brand/) on WordPress.org. If you can't locate any topics that pertain to your particular issue, post a new topic for it.
+You can find [docs](http://proword.net/Woocommerce_Brands_pro/documentation/).If you were unable to find the answer to your question on the FAQ or in any of the documentation, you should check the [support forum](http://wordpress.org/support/plugin/woocommerce-brand/) on WordPress.org. If you can't locate any topics that pertain to your particular issue, post a new topic for it.
 
 = Features: =
 
@@ -29,7 +29,7 @@ To Buy Pro Version Please [Click Here](http://codecanyon.net/item/woocommerce-br
 
 = Live Demo =
 
-Woocommerce Tabs Pro Front Demo : [http://proword.net/Woocommerce_Brands/](http://proword.net/Woocommerce_Brands/)
+Woocommerce Tabs Pro Front Demo : [http://proword.net/Woocommerce_Brands_pro/](http://proword.net/Woocommerce_Brands_pro/)
 	 
 = Key Features =
 
